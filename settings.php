@@ -49,6 +49,7 @@ if(isset($_POST["submit"])){
      ),
         array( '%s', '%s', '%s', '%s') 
      );
+     echo "<script>location.reload();</script>";
   }
 
 }
