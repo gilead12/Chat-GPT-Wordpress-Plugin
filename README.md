@@ -31,5 +31,5 @@ Eklenti üzerinde geliştirmeler devam ediyor, iletişim ve destek için aşağ�
 https://www.buymeacoffee.com/huseyintintas
 
 <h2>Contact: </h2><br>
-mail@huseyintintas.com
+mail@huseyintintas.com<br>
 https://twitter.com/1337stif
