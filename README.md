@@ -32,3 +32,4 @@ https://www.buymeacoffee.com/huseyintintas
 
 <h2>Contact: </h2><br>
 mail@huseyintintas.com
+https://twitter.com/1337stif
