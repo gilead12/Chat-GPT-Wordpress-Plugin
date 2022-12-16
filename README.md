@@ -15,7 +15,7 @@ This WordPress plugin allows you to add the text you write as a WordPress blog p
 The plugin is continuously being developed, you can use the following links for communication and support.
 
 # TR
-Bu WordPress eklentisi, Chat GPT API'sini kullanarak yazdığınız metni bir WordPress blog yazısı olarak eklemenizi sağlar.
+Bu WordPress eklentisi, Chat GPT API'ını kullanarak yazdığınız metni bir WordPress blog yazısı olarak eklemenizi sağlar.
 <h2>Kurulum:</h2><br>
 <b>1-)</b> Chat GPT Content Writer eklentisini indirin.<br>
 <b>2-)</b> Wordpress'e eklentiyi yükleyin.<br>
