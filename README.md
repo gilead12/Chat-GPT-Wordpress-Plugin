@@ -27,9 +27,9 @@ The plugin is continuously being developed, you can use the following links for 
 
 Eklenti üzerinde geliştirmeler devam ediyor, iletişim ve destek için aşağıdaki bağlantıları kullanabilirsiniz.
 
-<h2>Buy me a coffee: </h2><br>
+<h2>Buy me a coffee: </h2>
 https://www.buymeacoffee.com/huseyintintas
 
-<h2>Contact: </h2><br>
+<h2>Contact: </h2>
 mail@huseyintintas.com<br>
 https://twitter.com/1337stif
