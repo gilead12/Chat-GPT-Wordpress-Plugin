@@ -5,7 +5,7 @@ include "header.php";
 global $wpdb;
 $tablename = $wpdb->prefix.'chatgpt_content_writer';
 
-$sql = "SELECT * FROM wp_chatgpt_content_writer";
+$sql = "SELECT * FROM $tablename";
 $results = $wpdb->get_results($sql);
 $getApiToken = $results[0]->api_token;
 $getTemperature = $results[0]->temperature;
